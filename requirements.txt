@@ -1,0 +1,9 @@
+torch
+transformers
+streamlit
+Pillow
+numpy
+scikit-learn
+pandas
+diffusers
+accelerate
